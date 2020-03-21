@@ -40,9 +40,6 @@ Add C:\Program Files\Photo Organizer in the Path on Windows Environment Variable
 Contributing
 Feel free to submitting pull requests to us.
 
-Authors
-Damiao Duarte
-
 License
 This project is licensed under the GNU General Public License.
 
